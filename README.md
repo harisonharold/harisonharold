@@ -5,8 +5,9 @@ My name is Harison, I'm a Software Enthusiast, graduated from Sheridan College i
 - 🔭 I’m currently working on [auto-mapping locations from job applications], [daily random outfit generator using personal wardrobe].
 - 🌱 I’m currently learning JavaScript, React, SQL and Nuxt.js.
 - 👯 I’m looking to collaborate on Open Source Projects.
-- 📫 How to reach me: [harisonharold]{www.linkedin.com/in/harisonharold}
-- [harisonharold]{https://www.instagram.com/harisonharold/}
+- 📫 How to reach me:
+  - Linkedin: [harisonharold]{www.linkedin.com/in/harisonharold}
+  - Instagram: [harisonharold]{https://www.instagram.com/harisonharold/}
 - 😄 Pronouns: he/him.
 - ⚡ Fun fact: It took me 3 years to learn the basics of Github.
 
