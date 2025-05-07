@@ -6,7 +6,7 @@ My name is Harison, I'm a Software Enthusiast, graduated from Sheridan College i
 - 🌱 I’m currently learning JavaScript, React, SQL and Nuxt.js.
 - 👯 I’m looking to collaborate on Open Source Projects.
 - 📫 How to reach me:
-  - Linkedin: [harisonharold](www.linkedin.com/in/harisonharold)
+  - Linkedin: [harisonharold](www.linkedin.com/in/harisonharold/)
   - Instagram: [harisonharold](https://www.instagram.com/harisonharold/)
 - 😄 Pronouns: he/him.
 - ⚡ Fun fact: It took me 3 years to learn the basics of Github.
